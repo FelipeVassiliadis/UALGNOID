@@ -84,5 +84,3 @@ Dá para criar níveis novos editando esses arquivos.
 
 Projeto em dupla para a cadeira de Laboratório de Programação, UAlg, 2024.
 
-- **Felipe Vassiliadis** — [@FelipeVassiliadis](https://github.com/FelipeVassiliadis)
-- **[Nome do colega de dupla]**
